@@ -1,0 +1,12 @@
+---
+title: "Clarification of some issues using Bayesian methods and model selection in meta-analysis and reporting"
+collection: publications
+permalink: /publication/2021_paper2
+excerpt: 'This systematic review and meta-analysis were conducted on all eligible cohort studies to evaluate the association between high-sensitivity C-reactive protein (hs-CRP) and osteoporotic fracture risk. Both frequentist and Bayesian approaches were employed for the meta-analysis. We found that high tertiles of hs-CRP were significantly associated with increased fracture risk.'
+date: 2021-03
+venue: 'Osteoporosis International'
+paperurl: 'https://link.springer.com/article/10.1007/s00198-020-05623-6'
+citation: 'Qing Wu, Heejin Mun, Bowen Liu (2021). &quot;Clarification of some issues using Bayesian methods and model selection in meta-analysis and reporting.&quot; <i>Osteoporosis International</i>. 1(1).'
+---
+This systematic review and meta-analysis were conducted on all eligible cohort studies to evaluate the association between high-sensitivity C-reactive protein (hs-CRP) and osteoporotic fracture risk. Both frequentist and Bayesian approaches were employed for the meta-analysis. We found that high tertiles of hs-CRP were significantly associated with increased fracture risk.
+[Download paper here](http://liuaber.github.io/files/CRP_Bayesian_Meta.pdf)
