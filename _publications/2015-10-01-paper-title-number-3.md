@@ -12,4 +12,3 @@ In this paper, we propose a new family of distributions, by exponentiating the r
 
 [Download paper here](http://liuaber.github.io/files/mathematics-10-01895.pdf)
 
-Citation: Bowen Liu, Malwane M.A. Ananda (2022). &quot;A Generalized Family of Exponentiated Composite Distributions&quot; <i>Mathematics</i>. 10(11), 1895.
