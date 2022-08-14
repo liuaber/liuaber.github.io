@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bowen Liu"
   avatar           : "profile.png"
-  bio              : "Data Enthusiast"
+  bio              : "One should use common words to say uncommon things."
   location         : "Las Vegas, NV"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/bow-l/"
   orcid            : "https://orcid.org/0000-0002-6918-9871"
   pinterest        :
   soundcloud       :
