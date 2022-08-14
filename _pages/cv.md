@@ -11,30 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Mathematics, University of Arizona, 2015
+* M.S. in Statistics, University of Nevada, Las Vegas, 2017
+* Ph.D in Statistics, University of Nevada, Las Vegas, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2014-2015: Undergraduate Teaching Assistant
+  * University of Arizona
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2015 - Fall 2017: Graduate Teaching Assistant
+  * University of Nevada, Las Vegas
+  * Duties included: 
+
+* Spring 2018: Lab Assistant
+  * Nevada Institute of Personalized Medicine, University of Nevada, Las Vegas
+  * Duties included: 
+  * Supervisor: Qing Wu, now Professor at the Ohio State University
+  
+* Fall 2018 - Fall 2022: Graduate Teaching Assistant
+  * University of Nevada, Las Vegas
+  * Duties included: 
+  
+* Summer 2022: Research Assistant
+  * Nevada Institute of Personalized Medicine, University of Nevada, Las Vegas
+  * Duties included: 
+  * Supervisor: Qing Wu, now Professor at the Ohio State University
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Pyhton
+  * Panda
+  * TensorFlow
+  * Keras
+* SQL
 
 Publications
 ======
@@ -56,4 +68,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Vice President and Treasurer for Data Science Innovated at University of Nevada, Las Vegas
+* Session Moderators for American Statistical Association - Nevada Chapter 2022
