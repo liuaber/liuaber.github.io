@@ -2,7 +2,7 @@
 title: "Detecting gene-environment interactions using variance component selection with an application in MrOS data"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/asbmr_2021
 venue: "American Society of Bone Mineral Research (ASBMR) 2021 Annual Meeting"
 date: 2021-10-03
 location: "San Diego, CA"
