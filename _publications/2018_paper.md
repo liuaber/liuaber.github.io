@@ -1,5 +1,5 @@
 ---
-title: "Depression and risk of fracture and bone loss: an updated meta-analysisof prospective studies"
+title: "Depression and risk of fracture and bone loss: an updated meta-analysis of prospective studies"
 collection: publications
 permalink: /publication/2018_paper
 excerpt: ''
