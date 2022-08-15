@@ -2,7 +2,7 @@
 title: "Lithium use and risk of fracture: a systematic review and meta-analysis of observational studies"
 collection: publications
 permalink: /publication/2019_paper
-excerpt: 'This systematic review and meta-analysis summarized the results from nine eligible observational studies. Lithium use was significantly associated with a decrease risk of fractures.'
+excerpt: ''
 date: 2019-02-01
 venue: 'Osteoporosis International'
 paperurl: 'https://link.springer.com/article/10.1007/s00198-018-4745-9'
