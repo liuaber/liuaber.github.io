@@ -18,5 +18,5 @@ References
 
 [2] Hou, R., Cole, S.A., Graff, M. et al. Genetic variants and physical activity interact to affect bone density in Hispanic children. BMC Pediatr 21, 79 (2021). 
 
- ![Download paper here](http://liuaber.github.io/images/500x300.png)
+ ![asbmr_2021](http://liuaber.github.io/images/asbmr_2021.png)
 
