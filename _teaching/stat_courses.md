@@ -1,7 +1,7 @@
 ---
 title: "Stat Courses"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/stat_courses
 venue: "University of Nevada, Las Vegas, Department of Mathematical Sciences"
 date: 2015-01-01
