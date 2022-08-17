@@ -14,5 +14,3 @@ STAT 152 - Intro to Statistics
 STAT 391 - Applied Statistics for Biology
 ======
 
-STAT 411 - Statistical Methods I
-======
