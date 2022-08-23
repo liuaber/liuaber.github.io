@@ -7,23 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Ph.D student in Statistics with strong modeling and analyzing experience in actuarial and biostatistics data modeling.
+Good programming skills in R and Python and work efficiently with teams or as an individual contributor. 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-Actuarial and Insurance Data Modeling
+Extreme Data Modeling
 ======
 
+As a PhD candidate, my major focus is modeling extreme data with parametric models. Along with my advisor, [Dr Malwane M.A. Ananda](https://www.unlv.edu/people/malwane-ananda), I published two papers about a new family of parametric models for extreme data modeling. The models demonstrated great performances in modeling several actuarial and insurance claim size data sets. Currently, we are exploring more theoretical properties of these models. In addition, we are applying these models with the reliability data sets. 
 
 Classical and Bayesian Meta-analyis 
 ======
 
+As a previous research assistant in Nevada Institute of Personalized Medicine ([NIPM](https://www.unlv.edu/nipm)), I cooperated with Professor Qing Wu ([Currenlty Professor at the Ohio State University](https://cancer.osu.edu/for-cancer-researchers/resources-for-cancer-researchers/shared-resources/biostatistics/expertise)) since year 2018. We published several papers together including three papers in classical and Bayesian Meta-analysis. Most importantly, we focused on the possible factors that associates with osteporotic fractures, which is known as a major global public health concern. We're currently working on a review paper to sumamrize the statistical methodologies used in classical and meta-analysis.  
 
 Machine Learning and Deep Learning
-------
-
+======
 
 Sport Analytics
-------
+======
 
 
 **Markdown generator**
