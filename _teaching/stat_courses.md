@@ -8,10 +8,10 @@ date: 2022-01-01
 location: "Las Vegas, NV, USA"
 ---
 
-STAT 152 - Intro to Statistics
+Evaluations for Lectures
 ======
 
-
-STAT 391 - Applied Statistics for Biology
+Evaluations for Discussions
 ======
+[Fall 2020-MATH120-1004](http://liuaber.github.io/files/Report for MATH 120-1004 Fund Coll Math 110491 Bowen Liu_Fall_2020.pdf)
 
