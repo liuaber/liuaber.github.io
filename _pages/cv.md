@@ -13,7 +13,7 @@ Education
 ======
 * B.A. in Mathematics, University of Arizona, 2015
 * M.S. in Statistics, University of Nevada, Las Vegas, 2017
-* Ph.D in Statistics, University of Nevada, Las Vegas, 2022 (expected)
+* Ph.D in Statistics, University of Nevada, Las Vegas, 2023 
 
 Work experience
 ======
@@ -38,6 +38,7 @@ Work experience
   * Nevada Institute of Personalized Medicine, University of Nevada, Las Vegas
   * Duties included: 
   * Supervisor: Qing Wu, now Professor at the Ohio State University
+* Fall 2023 - Now: Assistant Professor at University of Missouri-Kansas City
   
 Skills
 ======
