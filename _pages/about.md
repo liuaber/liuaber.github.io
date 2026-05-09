@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Assistant Professor of Statistics at **University of Missouri - Kansas City**
+Assistant Professor of Statistics at the University of Missouri–Kansas City.
 
-Ph.D in Statistics with strong modeling and analyzing experience in biostatistics and actuarial data modeling.
-Good programming skills in R and Python and work efficiently with teams or as an individual contributor. 
+I hold a Ph.D. in Statistics and specialize in statistical modeling, biostatistics, and applied data analysis. My research focuses on developing and applying advanced statistical methods to real-world problems across public health, actuarial science, and data science.
 
-
+I have strong programming expertise in R and Python, and I am experienced in both independent research and collaborative, interdisciplinary team environments.
 
