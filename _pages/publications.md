@@ -8,9 +8,9 @@ author_profile: true
 See my [Google Scholar](https://scholar.google.com/citations?user=YPLnv_gAAAAJ&hl=en).
 
 {% assign pubs = site.publications | sort: "date" | reverse %}
-
 {% assign current_year = "" %}
 
+<div markdown="0">
 {% for post in pubs %}
   {% assign year = post.date | date: "%Y" %}
 
@@ -22,8 +22,9 @@ See my [Google Scholar](https://scholar.google.com/citations?user=YPLnv_gAAAAJ&h
   {% endif %}
 
   <li>
-    {{ post.content | strip_html }}
+    {{ post.content }}
   </li>
 
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
+</div>
