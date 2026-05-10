@@ -20,6 +20,6 @@ See my [Google Scholar](https://scholar.google.com/citations?user=YPLnv_gAAAAJ&h
   {% assign current_year = year %}
   {% endif %}
 
-{{ post.content | strip_html }}
+{{ post.content | markdownify }}
 
 {% endfor %}
